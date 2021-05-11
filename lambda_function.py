@@ -40,10 +40,13 @@ def get_vaccine_availability():
 
         for center in resp:
             for session in center['sessions']:
-                if session['available_capacity'] and session["min_age_limit"] == 18:
+                if session['available_capacity']:
+                    min_age_limit = session["min_age_limit"]
+                    age_hashtag = "#VaccineFor18Plus" if min_age_limit == 18 else "#VaccineForAll"
                     msg = [
-                            "#VaccineFor18Plus #KolhapurVaccineUpdate",
+                            f"{age_hashtag} #KolhapurVaccineUpdate",
                             f"Center: {center['name']}, {center['address']} - {center['pincode']}",
+                            f"Min Age Limit: {min_age_limit}",
                             f"Vaccine: {session['vaccine']}", 
                             f"Available Capacity: {session['available_capacity']}",
                             f"Date: {session['date']}",
