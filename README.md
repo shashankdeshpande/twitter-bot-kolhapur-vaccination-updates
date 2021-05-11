@@ -15,3 +15,4 @@
 
 ### Reference
 - CoWIN Public API: https://apisetu.gov.in/public/api/cowin#/
+- To show Twitter feed in README - https://dev.to/stevenjdh/show-your-tweets-on-your-github-profile-readme-141i
