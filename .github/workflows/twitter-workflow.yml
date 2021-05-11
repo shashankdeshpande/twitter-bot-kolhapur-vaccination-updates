@@ -10,10 +10,11 @@ jobs:
     name: Update this repo's README with latest tweets
     runs-on: ubuntu-latest
     steps:
-      - uses: shashankdeshpande/twitter-bot-kolhapur-vaccination-updates@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
           feed_list: "https://rss.app/feeds/YrosI2ihypsVAziK.xml"
           commit_message: "Updated with the latest tweets"
           committer_username: "twitter-bot"
-          committer_email: "shashankdeshpande18@gmail.com"
+          committer_email: "twitter-bot@example.com"
