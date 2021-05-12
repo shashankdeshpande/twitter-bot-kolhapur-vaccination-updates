@@ -6,11 +6,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: 18 To 44 Yr VIKRAMNGAR DIS KMC, Vikramnagar - 416005Vaccine: COVISHIELDAvailable Capacity: 199Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1391970138396577795)
-- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Gandhinagar SDH (Age 18 To 44), Sub District Hospital Gandhinagar - 416119Vaccine: COVAXINAvailable Capacity: 1Date: 10-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1391597180150980612)
-- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Gargoti RH (Age 18 To 44), Gargoti RH - 416209Vaccine: COVAXINAvailable Capacity: 4Date: 10-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1391537537462595585)
-- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Gargoti RH (Age 18 To 44), Gargoti RH - 416209Vaccine: COVAXINAvailable Capacity: 1Date: 10-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1391431086723407875)
-- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Kagal RH (Age 18 To 44 Years), Rural Hospital Kagal - 416216Vaccine: COVAXINAvailable Capacity: 183Date: 10-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1391288398376181764)
+- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Kagal RH (Age 18 To 44 Years), Rural Hospital Kagal - 416216Min Age Limit: 18Vaccine: COVISHIELDAvailable Capacity: 1Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392240766957678592)
+- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Kagal RH (Age 18 To 44 Years), Rural Hospital Kagal - 416216Min Age Limit: 18Vaccine: COVISHIELDAvailable Capacity: 1Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392201760211619843)
+- [@meShashank93: #VaccineFor18Plus #KolhapurVaccineUpdateCenter: Hatkangale RH (Age 18 To 45), Rural Hospital Hatkangale - 416109Min Age Limit: 18Vaccine: COVISHIELDAvailable Capacity: 1Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392189175537954816)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Mudshingi-SC, Mudshingi - 416119Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 2Date: 11-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392158474071461893)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Sawarde-SC, Sawarde Primary Health Center - 416109Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392151933666750464)
 <!-- TWITTER:END -->
 
 ### Reference
