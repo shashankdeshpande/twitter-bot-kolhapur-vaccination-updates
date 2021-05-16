@@ -6,11 +6,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: CPR Medical College MC, Bhaushingi Road Dasara Chauk - 416002Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 15-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1393403175885938691)
 - [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: CPR Medical College MC, Bhaushingi Road Dasara Chauk - 416002Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 14-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1393140193125752836)
 - [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Phulewadi No.8 UHC KMC, Near Datta Mandir Phulewadi - 416120Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 2Date: 14-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392754653293539330)
 - [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Isolation Hosp No 7 UHC KMC, Near Hockey Stedium - 416012Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392491669023387649)
 - [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Porale-SC, At Post Porale - 416229Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 12-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392393019609915392)
-- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Sidharth Nagar No.10 UHC KMC, Shanwar Peth - 416002Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 14-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392342436345782278)
 <!-- TWITTER:END -->
 
 ### Reference
