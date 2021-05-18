@@ -6,11 +6,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Apple Sarswati Hospital, Kadamwadi Road - 416003Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 100Date: 23-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1394020496073580545)
-- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Apple Sarswati Hospital, Kadamwadi Road - 416003Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 100Date: 23-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1393997341280112650)
-- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: CPR Medical College MC, Bhaushingi Road Dasara Chauk - 416002Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 15-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1393403175885938691)
-- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: CPR Medical College MC, Bhaushingi Road Dasara Chauk - 416002Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 1Date: 14-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1393140193125752836)
-- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Phulewadi No.8 UHC KMC, Near Datta Mandir Phulewadi - 416120Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 2Date: 14-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1392754653293539330)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Apple Sarswati Hospital, Kadamwadi Road - 416003Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 100Date: 23-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1394260361000390657)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Apple Sarswati Hospital, Kadamwadi Road - 416003Min Age Limit: 45Vaccine: COVISHIELDAvailable Capacity: 100Date: 23-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1394225836614508545)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Bhadwan PHC 1, Bhadwan - 416505Min Age Limit: 45Vaccine: COVAXINAvailable Capacity: 18Date: 21-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1394197934556827648)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Bhadwan PHC 1, Bhadwan - 416505Min Age Limit: 45Vaccine: COVAXINAvailable Capacity: 18Date: 21-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1394183821340209153)
+- [@meShashank93: #VaccineForAll #KolhapurVaccineUpdateCenter: Bhadwan PHC 1, Bhadwan - 416505Min Age Limit: 45Vaccine: COVAXINAvailable Capacity: 19Date: 21-05-2021Please refer  for details.#Unite2FightCorona #IndiaFightsCorona](https://twitter.com/meShashank93/status/1394182309796925440)
 <!-- TWITTER:END -->
 
 ### Reference
